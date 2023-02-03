@@ -8,7 +8,7 @@ data=data.lower()
 #Split the words into a list
 list=data.split("\n")
 #Get the name
-name=input("What is your name? ")
+name=input("What is first your name? ")
 name=name.lower()
 
 #Split the name of the person into letters
